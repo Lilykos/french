@@ -2,119 +2,178 @@
 
 ---
 
-## **1. Conjugating Regular -ER Verbs**
-Regular **-ER** verbs follow a predictable pattern in the present tense. To conjugate them, remove **-er** from the infinitive and add the following endings:
+## 1. Conjugating Regular -ER Verbs
 
-| Subject | Ending | Example: Travailler (to work) |
-|---------|--------|--------------------------------|
-| Je      | -e     | Je travaille (I work)          |
-| Tu      | -es    | Tu travailles (You work)       |
-| Il/Elle/On | -e  | Il travaille (He works)        |
-| Nous    | -ons   | Nous travaillons (We work)     |
-| Vous    | -ez    | Vous travaillez (You work)     |
-| Ils/Elles | -ent | Ils travaillent (They work)    |
+In French, regular -ER verbs form the largest group of verbs. Understanding how to conjugate these verbs in the present tense is essential, as it provides the foundation for expressing many everyday actions.
 
-### **Examples with other -ER verbs:**
-- **Aimer (to like/love):** J’aime, tu aimes, il aime, nous aimons, vous aimez, ils aiment.
-- **Manger (to eat):** Je mange, tu manges, il mange, nous mangeons, vous mangez, ils mangent.
-- **Voyager (to travel):** Je voyage, tu voyages, il voyage, nous voyageons, vous voyagez, ils voyagent.
-- **Danser (to dance):** Je danse, tu danses, il danse, nous dansons, vous dansez, ils dansent.
-- **Arriver (to arrive):** J’arrive, tu arrives, il arrive, nous arrivons, vous arrivez, ils arrivent.
-- **Jouer (to play):** Je joue, tu joues, il joue, nous jouons, vous jouez, ils jouent.
-- **Habiter (to live):** J’habite, tu habites, il habite, nous habitons, vous habitez, ils habitent.
-- **Chanter (to sing):** Je chante, tu chantes, il chante, nous chantons, vous chantez, ils chantent.
+### Basic Conjugation Pattern
 
-#### **Verbs with Spelling Changes**
-Some **-ER** verbs have minor spelling changes for pronunciation:
-- **Manger, voyager** → Keep **-e-** in **nous** form (Nous mangeons, nous voyageons).
-- **Préférer, espérer** → **é** becomes **è** in singular forms (Je préfère, tu préfères).
+To conjugate a regular -ER verb in the present tense:
+1. Take the infinitive form of the verb (ending in -er)
+2. Remove the -er ending
+3. Add the appropriate ending for each subject pronoun
 
----
+| Subject | Ending | Parler<br>(to speak) | Aimer<br>(to like/love) | Manger<br>(to eat) | Voyager<br>(to travel) |
+|---------|--------|------------|------------|-------------|--------------|
+| Je      | -e     | parle      | aime       | mange       | voyage       |
+| Tu      | -es    | parles     | aimes      | manges      | voyages      |
+| Il/Elle/On | -e  | parle      | aime       | mange       | voyage       |
+| Nous    | -ons   | parlons    | aimons     | **mangeons**| **voyageons**|
+| Vous    | -ez    | parlez     | aimez      | mangez      | voyagez      |
+| Ils/Elles | -ent | parlent    | aiment     | mangent     | voyagent     |
 
-## **2. Numbers & Money**
-### **Review of Key Numbers:**
-- **21** → vingt et un
-- **53** → cinquante-trois
-- **88** → huitante-huit (Swiss French) or quatre-vingt-huit (Standard French)
-- **1100** → mille cent
+### Pronunciation Notes
 
-### **Talking About Money:**
-- **octante-huit euros cinquante** → 88.50 euros
-- **Ça suffit pour aujourd’hui.** → That’s enough for today.
-- **Vous avez un sac, s’il vous plaît ?** → Do you have a bag, please?
+- The endings -e, -es, and -ent are all pronounced the same way (silent)
+- This means "je parle," "tu parles," "il parle," and "ils parlent" all sound identical in terms of the ending
+- Only "nous parlons" and "vous parlez" have distinctly pronounced endings
 
----
+### Spelling Changes in Some -ER Verbs
 
-## **3. Additional Vocabulary & Expressions**
+- **Verbs ending in -ger** (like manger, voyager): Add an "e" after "g" in the nous form to maintain the soft "g" sound
+- **Verbs ending in -cer** (like commencer): Change "c" to "ç" in the nous form to maintain the soft "c" sound
+- **Verbs with é in the next-to-last syllable** (like préférer, espérer): The "é" changes to "è" in all forms except nous and vous
 
-### **Common Expressions:**
-- **Quelles nouvelles ?** → What’s new?
-- **Rien de nouveau.** → Nothing new.
-- **Tout va bien.** → Everything is fine.
-- **Au fait...** → By the way...
-- **Tenez / Tiens !** → Here you go! (Formal/Informal)
-- **Commencez !** → Start!
-- **Ça suffit !** → That’s enough!
+### Example Sentences
 
-### **Pronunciation Notes:**
-- **ai = è** → maison, aimer
-- **ill = y** → fille, travailler
-- **i - u - ou** → tu, tout, rue, roue
-- **bi / bu** → differentiation of vowel sounds
-
-### **Prepositions & Places:**
-- **Loin de** → Far from
-- **Loin d’ici** → Far from here
-- **Ici** → Here
-- **Le quartier** → The neighborhood
-- **L’horaire** → The schedule
-
-### **Additional Verbs:**
-- **Tenir (to hold):**
-  - **Tiens !** → Here! (informal)
-  - **Tenez !** → Here! (formal/plural)
-- **Travailler (to work)**
-- **Manger (to eat)**
-- **Danser (to dance)**
-- **Voyager (to travel)**
-- **Arriver (to arrive)**
-- **Aimer (to like/love)**
-- **Jouer (to play)**
-- **Habiter (to live)**
-- **Chanter (to sing)**
+- **Je parle français.** → I speak French.
+- **Tu aimes les films ?** → Do you like movies?
+- **Elle mange au restaurant.** → She eats at the restaurant.
+- **Nous voyageons en Europe.** → We travel in Europe.
+- **Vous parlez très bien !** → You speak very well!
+- **Ils aiment la musique.** → They like music.
 
 ---
 
-## **4. Practice Exercise**
+## 2. Numbers & Money
 
-### **A. Conjugate the following verbs in the present tense:**
-1. Travailler → Nous _________.  
-2. Manger → Vous _________.  
-3. Aimer → Tu _________.  
-4. Danser → Ils _________.  
-5. Voyager → Je _________.  
+Understanding numbers in financial contexts is essential for everyday transactions and conversations about money.
 
-### **B. Fill in the blanks with the correct number or expression:**
-1. ________ et un euros. (21)  
-2. Ça ________ pour aujourd’hui. (suffit)  
-3. ________ nouvelles ? (What’s new?)  
-4. L’école est ________ ici. (far from)  
+### Expressing Money and Prices
 
-### **Answers:**
-#### **A.**
-1) travaillons  
-2) mangez  
-3) aimes  
-4) dansent  
-5) voyage  
+When talking about money in French, the currency typically comes after the amount, and the decimal point is represented by a comma (not a period as in English).
 
-#### **B.**
-1) Vingt-et-un  
-2) suffit  
-3) Quelles  
-4) loin de  
+| French | English |
+|--------|---------|
+| **deux euros cinquante** | two euros fifty |
+| **quarante euros** | forty euros |
+| **quatre-vingt-huit euros cinquante** | eighty-eight euros fifty |
+| **octante-huit euros cinquante** (Swiss) | eighty-eight euros fifty |
+
+### Shopping Expressions
+
+| French | English |
+|--------|---------|
+| **Ça coûte combien ?** | How much does this cost? |
+| **C'est combien ?** | How much is it? |
+| **Ça suffit pour aujourd'hui.** | That's enough for today. |
+| **Vous avez un sac, s'il vous plaît ?** | Do you have a bag, please? |
+| **Je peux payer par carte ?** | Can I pay by card? |
+
+### Example Dialogues
+
+**At a bakery:**
+- **Client**: Bonjour, je voudrais deux croissants, s'il vous plaît.
+- **Vendeur**: Ce sera trois euros vingt.
+- **Client**: Voilà quatre euros.
+- **Vendeur**: Merci. Voici votre monnaie : quatre-vingts centimes.
+
+**At a clothing store:**
+- **Client**: Combien coûte cette chemise ?
+- **Vendeur**: Elle coûte trente-cinq euros.
+- **Client**: C'est trop cher. Avez-vous quelque chose de moins cher ?
+- **Vendeur**: Oui, celle-ci est en solde à vingt-deux euros.
+
+---
+
+## 3. Additional Vocabulary & Expressions
+
+Expanding your vocabulary with useful expressions will help you communicate more naturally in everyday situations.
+
+### Common Regular -ER Verbs
+
+| French Verb | English Meaning | Example Sentence |
+|-------------|-----------------|------------------|
+| **danser** | to dance | Elle danse très bien. (She dances very well.) |
+| **arriver** | to arrive | J'arrive à huit heures. (I arrive at eight o'clock.) |
+| **jouer** | to play | Vous jouez au football? (Do you play football?) |
+| **habiter** | to live (reside) | Nous habitons à Paris. (We live in Paris.) |
+| **chanter** | to sing | Tu chantes bien! (You sing well!) |
+| **regarder** | to watch/look at | Nous regardons un film. (We are watching a movie.) |
+| **étudier** | to study | Elle étudie l'histoire. (She studies history.) |
+| **écouter** | to listen | J'écoute de la musique. (I listen to music.) |
+| **travailler** | to work | Je travaille à la banque. (I work at the bank.) |
+| **commencer** | to begin | Nous commençons à neuf heures. (We begin at nine o'clock.) |
+| **préférer** | to prefer | Je préfère le café. (I prefer coffee.) |
+| **espérer** | to hope | J'espère te voir bientôt. (I hope to see you soon.) |
+
+### Common Expressions and Greetings
+
+| French | English | Usage Notes |
+|--------|---------|-------------|
+| **Quelles nouvelles ?** | What's new? | Casual greeting |
+| **Rien de nouveau.** | Nothing new. | Common response |
+| **Au fait...** | By the way... | Introducing a new topic |
+| **Tenez !** | Here you go! | When giving something (formal) |
+| **Tiens !** | Here you go! | When giving something (informal) |
+| **Commencez !** | Start! | Command (formal/plural) |
+| **Commence !** | Start! | Command (informal) |
+| **Ça suffit !** | That's enough! | To stop an action |
+| **À bientôt !** | See you soon! | Saying goodbye |
+| **Bon courage !** | Good luck!/Hang in there! | Encouragement |
+
+### Pronunciation Notes
+
+Understanding these French pronunciation patterns will help improve your speaking:
+
+| Pattern | Examples | Notes |
+|---------|----------|-------|
+| **ai = è** | maison, aimer | Pronounced like "eh" |
+| **ill = y** | fille, travailler | Often pronounced like "y" in "yes" |
+| **i - u - ou** | tu, tout, rue, roue | Distinct vowel sounds in French |
+| **bi / bu** | bille, bulle | Different vowel sounds to practice |
+| **eu** | deux, peu | Rounded lips sound |
+| **on** | bon, mon | Nasal vowel |
+| **an/en** | enfant, dans | Nasal vowel |
+
+### Prepositions & Places
+
+| French | English | Example |
+|--------|---------|---------|
+| **Loin de** | Far from | L'école est loin de chez moi. (School is far from my home.) |
+| **Près de** | Near/close to | J'habite près de la gare. (I live near the station.) |
+| **Loin d'ici** | Far from here | Le musée est loin d'ici. (The museum is far from here.) |
+| **Ici** | Here | Venez ici ! (Come here!) |
+| **Là** | There | Le livre est là. (The book is there.) |
+
+### The Verb "Tenir" (to hold)
+
+The irregular verb "tenir" has several useful forms:
+
+| Form | English | Usage |
+|------|---------|-------|
+| **Tiens !** | Here! | Informal command when giving something |
+| **Tenez !** | Here! | Formal/plural command when giving something |
+| **Je tiens** | I hold | Statement |
+| **Tu tiens** | You hold | Statement |
+| **Il/Elle tient** | He/She holds | Statement |
+
+---
+
+## 4. Key Takeaways
+
+✅ **Master the conjugation pattern for regular -ER verbs** - Remove the -er and add the appropriate ending for each subject pronoun.
+
+✅ **Watch for spelling changes in certain verbs** - Verbs ending in -ger, -cer, and those with é in the next-to-last syllable follow special rules.
+
+✅ **Remember that je, tu, il/elle/on, and ils/elles endings sound the same** - The -e, -es, and -ent endings are all silent in pronunciation.
+
+✅ **Learn numerical expressions for shopping** - The currency typically comes after the amount in French (25 euros), and decimals use commas.
+
+✅ **Use common expressions to sound more natural** - Phrases like "Quelles nouvelles?", "Au fait...", and "Ça suffit!" will help you communicate more naturally.
+
+✅ **Pay attention to pronunciation patterns** - French has several vowel sounds that differ from English, and mastering these will improve your accent.
 
 ---
 
 **Excellent work! Keep practicing!** 😊
-
